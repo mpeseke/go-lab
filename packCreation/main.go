@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"packages/math"
+	"packCreation/math"
 )
 
 func main() {
